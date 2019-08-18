@@ -1,5 +1,5 @@
 ---
-layout: slide
+layout: slides
 title: "Welcome to our slide deck!"
 ---
 
