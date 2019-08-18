@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to mansoorakhtar9 slide deck!"
+layout: slides
+title: "Welcome to our slide deck!"
 ---
 
 Caption here
